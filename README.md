@@ -1,4 +1,4 @@
-# 🖥️ Remote Desktop System (Python)
+# 🖥️ Remote Desktop System 
 
 A real-time remote desktop application built using Python sockets that enables live screen streaming and remote control (mouse + keyboard) over a network.
 
